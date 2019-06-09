@@ -47,7 +47,7 @@
             android:textStyle="bold"
             android:id="@+id/textView"
             android:layout_gravity="center_vertical"
-            android:layout_marginLeft="10dp"
+            android:layout_marginLeft="0dp"
             android:layout_marginRight="10dp"/>
 
         <Spinner
